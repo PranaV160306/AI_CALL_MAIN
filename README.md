@@ -25,7 +25,6 @@ Telephony: Twilio Programmable Voice
 bash
 Copy
 Edit
-git clone https://github.com/amanp8l/ai-call.git
 cd ai-call
 npm install
 Add a .env file with the following variables:
